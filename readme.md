@@ -39,7 +39,7 @@ After starting the backend with `node index.js`, access the frontend by running 
 
 ## Contributing
 
-Contributions to Fascia are welcome. Please email contact.sushilpandey@gmail.com to get started.
+Contributions to Fascia are welcome. Please email kariaditya090@gmail.com to get started.
 
 ## License
 
@@ -47,7 +47,7 @@ This project is licensed under the GNU General Public License Version 3.0.
 
 ## Contact
 
-For questions or feedback, please email contact.sushilpandey@gmail.com.
+For questions or feedback, please email kariaditya090@gmail.com.
 
 ## Acknowledgements
 
